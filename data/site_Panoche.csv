@@ -1,0 +1,5 @@
+site,site_number,plot,lat,long,shrub_density,sampling
+Panoche,1,1,36.69596,-120.79656,high ,under shrub or open area
+Panoche,1,2,36.69615,-120.79789,medium,under shrub or open area
+Panoche,1,3,36.69526,-120.79700,low,under shrub or open area
+Panoche,1,4,36.69374,-120.79280,none,under shrub or open area

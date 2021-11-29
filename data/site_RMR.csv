@@ -1,0 +1,6 @@
+transect,lat,long,post,description,sampling
+1,35.53978,121.09155,1,"closest to bluff, parallel to coast","every 2m starting at 2, north to south"
+2,35.54011,121.09116,8,next up towards road,"every 2m starting at 2, north to south"
+3,35.54043,121.09045,17,next up towards road,"every 2m starting at 2, north to south"
+4,35.54058,121.09017,21,next up towards road,"every 2m starting at 2, north to south"
+5,35.54096,121.08953,26,"at road, parallel to coast, last post just below water trough","every 2m starting at 2, north to south"
